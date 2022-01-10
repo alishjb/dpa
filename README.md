@@ -12,7 +12,7 @@ usage ) python pch.py <ip> <username> <password> <profilenumber> <mindownrate> <
   
 ### Example
 python .\pch.py 10.11.12.13 admin admin123 12 31 12228 31 1024 0 31 0 31 12 12
-### Telegram
+### Contact
   contact with me on telegram for customization or other devices
   @ali_shjb
 
