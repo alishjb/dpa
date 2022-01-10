@@ -1,5 +1,5 @@
 # dpa
-dpa is Profile adder for Huawei dslam with single Line command
+dpa is Profile adder for Huawei dslam's with single Line command
 # requirements
 - python +3
 - paramiko ssh
@@ -7,7 +7,7 @@ dpa is Profile adder for Huawei dslam with single Line command
 ## usage
 usage ) python pch.py <ip> <username> <password> <profilenumber> <mindownrate> <maxdownrate> <minuprate> <maxuprate> [mindownsnr] [maxdownsnr] [minupsnr] [maxupsnr] [downtarget] [uptarget]
   
-[ ] is optional(leave it or fill all)
+[ ] is optional(leave it or fill all) , 
 <> Must be filled
   
 ## Example
