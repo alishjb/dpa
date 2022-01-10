@@ -11,7 +11,7 @@ usage ) python pch.py <ip> <username> <password> <profilenumber> <mindownrate> <
 > <> Must be filled
   
 ### Example
-  ```python
+  ```bash
 python .\pch.py 10.11.12.13 admin admin123 12 31 12228 31 1024 0 31 0 31 12 12
   ```
 ### Contact
