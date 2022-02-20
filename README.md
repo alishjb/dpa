@@ -13,7 +13,7 @@ dpa is Profile adder for Huawei dslam's with single Line command
   
 ### Example
   ```bash
-python .\pch.py 10.11.12.13 admin admin123 12 31 12228 31 1024 0 31 0 31 12 12
+python .\pch.py 10.11.12.13 admin admin123 12 32 12228 32 1024 0 31 0 31 12 12
   ```
 ### Contact
   contact with me on telegram for customization or other devices
